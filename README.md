@@ -128,3 +128,6 @@ End:
 Special thanks to Mike Davis, W1ARN of the National Weather Service, Nashville TN office
 for his testing/feedback during development.   
 
+## Sample output
+
+![buoy-placefile](https://github.com/ktrue/buoy-placefile/assets/17507343/614de01c-b4bb-437c-92fd-99fb548ecef5)
